@@ -5,3 +5,4 @@ numbers.each do |i|
   new_numbers = i ** 2
 end
 end
+end
